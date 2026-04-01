@@ -75,7 +75,7 @@ L-CAP is currently a **methodological protocol**.
 *   **Open Access:** Published as a conceptual framework to address context degradation.
 
 
-## 9. 🌍 True Story: Origin
+## 🌍 True Story: Origin
 L-CAP was born during the planning of a solo motorcycle expedition (**Vladivostok — Magadan — Mongolia — Altai**). Managing weather windows, maintenance schedules, and border logistics caused the AI to fail after 40 messages, losing track of critical service intervals. The solution—manual session resets with preliminary semantic distillation—evolved into this universal protocol.
 
 
